@@ -1,2 +1,3 @@
 print ("Hello world")
 print ("Hello everebody in the world")
+print ("Hello my dear friends")
